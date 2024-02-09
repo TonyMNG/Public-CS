@@ -1,6 +1,6 @@
 import java.util.concurrent.TimeUnit;
 
-public class WithoutLambdaStreamExample {
+public class TraditionalLoopExample {
     public static void main(String[] args) {
 
         long start = System.nanoTime();
